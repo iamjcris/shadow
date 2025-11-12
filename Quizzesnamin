@@ -52,10 +52,6 @@ Answer: b) HelloWorld
 The class name in the code is HelloWorld, which must match the filename.
 
 
-
-
-
-
 6. What does the following line do in the Java program?
 
 System.out.println("Hello, World!");
@@ -106,4 +102,88 @@ Answer: c) It can handle errors and manage memory efficiently.
 Java is robust because it prevents crashes through strong memory management and exception handling.
 ________________________________________________________________________________________________________________
 
+Quiz: Variables and Data Types in Java
+
+1. Which of the following is a 64-bit integer in Java?
+a) byte
+b) short
+c) int
+d) long
+
+2. What is the range of the byte data type in Java?
+a) -128 to 127
+b) -32,768 to 32,767
+c) -2³¹ to 2³¹-1
+d) -2⁶³ to 2⁶³-1
+
+3. Which primitive data type is used to store a single Unicode character?
+a) char
+b) String
+c) int
+d) boolean
+
+4. Which of the following is a floating-point data type?
+a) int
+b) double
+c) char
+d) boolean
+
+5. Which data type can only store true or false values?
+a) int
+b) boolean
+c) char
+d) double
+
+6. Which of the following is the correct way to declare an integer variable named age with a value of 25?
+a) int age = 25;
+b) age int = 25;
+c) int 25 = age;
+d) age = int 25;
+
+7. What is the difference between primitive types and reference types in Java?
+a) Primitive types store values directly, reference types store memory addresses
+b) Primitive types store memory addresses, reference types store values directly
+c) Primitive types are only for numbers, reference types are only for text
+d) There is no difference
+
+8. What is the size of a float in Java?
+a) 16-bit
+b) 32-bit
+c) 64-bit
+d) 8-bit
+
+9. Which of these is NOT a primitive data type in Java?
+a) int
+b) boolean
+c) String
+d) byte
+
+10. How would you declare a boolean variable named isActive with a value of true?
+a) boolean isActive = true;
+b) boolean = isActive true;
+c) isActive boolean = true;
+d) boolean isActive == true;
+
+Answer Key & Explanations
+
+d) long – long is a 64-bit integer in Java.
+
+a) -128 to 127 – byte stores 8-bit integers ranging from -128 to 127.
+
+a) char – char stores a single 16-bit Unicode character.
+
+b) double – double is a floating-point type (64-bit); float is also floating-point (32-bit).
+
+b) boolean – boolean can only store true or false.
+
+a) int age = 25; – Correct syntax for declaring an integer variable in Java.
+
+a) Primitive types store values directly, reference types store memory addresses – Primitive types contain actual data; reference types point to objects in memory.
+
+b) 32-bit – float is a 32-bit floating-point number.
+
+c) String – String is a reference type, not primitive.
+
+a) boolean isActive = true; – Correct syntax for declaring a boolean variable in Java.
+_____________________________________________________________________________________________________________
 
