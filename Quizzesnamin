@@ -1,0 +1,109 @@
+Java Fundamentals Quiz: Introduction to Java
+
+1. What type of programming language is Java?
+a) Low-level
+b) Assembly-based
+c) High-level
+d) Machine-specific
+
+Answer: c) High-level
+Java is a high-level language because it abstracts complex machine instructions into human-readable code.
+
+2. Which programming paradigm does Java follow?
+a) Procedural
+b) Functional
+c) Object-oriented
+d) Structural
+
+Answer: c) Object-oriented
+ Java is built around the concept of objects and classes, following the object-oriented programming paradigm.
+
+3. What does WORA stand for in Java?
+a) Write once, read anywhere
+b) Write once, run anywhere
+c) Write on random access
+d) Write once, reuse always
+
+Answer: b) Write once, run anywhere
+WORA means Java programs can run on any device that has a Java Virtual Machine (JVM).
+
+4. Which of the following is NOT a key feature of Java?
+a) Platform dependent
+b) Secure
+c) Robust
+d) Multi-threaded
+
+Answer: a) Platform dependent
+Java is platform-independent, so “platform dependent” is not one of its features.
+
+5.In the example program, what is the name of the class?
+Public class Main {
+		Public static void main(String[] args) {
+		System.out.println(“HelloWorld”);
+}
+}
+
+a) Hello
+b) HelloWorld
+c) main
+d) System
+
+Answer: b) HelloWorld
+The class name in the code is HelloWorld, which must match the filename.
+
+
+
+
+
+
+6. What does the following line do in the Java program?
+
+System.out.println("Hello, World!");
+
+
+a) Reads input from the user
+b) Prints text to the console
+c) Creates a new class
+d) Declares a variable
+
+Answer: b) Prints text to the console
+System.out.println() displays the specified text on the screen.
+
+7. What keyword is used to define a class in Java?
+a) def
+b) function
+c) class
+d) public
+
+Answer: c) class
+The class keyword is used to declare or define a new class in Java.
+
+8. What is the main purpose of the main() method in Java?
+a) To store data
+b) To start the execution of the program
+c) To handle exceptions
+d) To define variables
+
+Answer: b) To start the execution of the program
+The main() method acts as the entry point where the program begins execution.
+
+9. Which of these features makes Java suitable for concurrent programming?
+a) Platform Independence
+b) Multi-threading
+c) Robustness
+d) Security
+
+Answer: b) Multi-threading
+Multi-threading allows Java to perform multiple tasks simultaneously in a single program.
+
+10. Which statement best describes Java’s robustness?
+a) It runs only on specific operating systems.
+b) It has weak memory management.
+c) It can handle errors and manage memory efficiently.
+d) It does not support error handling.
+
+Answer: c) It can handle errors and manage memory efficiently.
+Java is robust because it prevents crashes through strong memory management and exception handling.
+________________________________________________________________________________________________________________
+
+
