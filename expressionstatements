@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int age = sc.nextInt();
+
+        // Decision-making using expressions
+        if (age < 18) {
+            System.out.println("Minor");
+        } else if (age >= 18 && age < 60) {
+            System.out.println("Adult");
+        } else {
+            System.out.println("Senior");
+        }
+
+        // Loop with continue
+        for (int i = 1; i <= 5; i++) {
+            if (i == 3) continue;
+            System.out.println(i);
+        }
+    }
+}
+                                                                                                                                                    
